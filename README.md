@@ -4,7 +4,7 @@
 
 ## Download
 
-You can download the latest version of the K/D Stats Calculator from the [releases page]([https://github.com/yourusername/kd-stats-calculator/releases](https://github.com/Arciere05/K-D-Stats-Calculator/releases)). Simply download the executable file and run it on your computer.
+You can download the latest version of the K/D Stats Calculator from the [releases page](https://github.com/Arciere05/K-D-Stats-Calculator/releases). Simply download the executable file and run it on your computer.
 
 ## Usage
 
