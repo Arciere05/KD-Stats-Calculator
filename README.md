@@ -1,4 +1,4 @@
-# K-D-Stats-Calculator
+# KD-Stats-Calculator
 
 **K/D Stats Calculator** is a Python application designed for analyzing player statistics in MTA (Multi Theft Auto) turf wars. This tool provides detailed insights into player performance by parsing log files to calculate kill/death ratios (K/D), weapon usage, and other relevant metrics. Developed using Python and PyQt5.
 
